@@ -6,7 +6,7 @@ Repositório criado para o desafio de projeto.
 2. [Introdução ao Git/GitHub](https://github.com/ikytussistemas/livro-receitas) 👨‍🍳
 
 ## Links úteis 🌐
-[Documentação do Markdown](https://www.markdownguide.org/).
-[Emojis](https://getemoji.com/).
-[Download do Git](https://git-scm.com/downloads).
-[Download Portugol Stúdio](https://github.com/UNIVALI-LITE/Portugol-Studio).
+- [Documentação do Markdown](https://www.markdownguide.org/).
+- [Emojis](https://getemoji.com/).
+- [Download do Git](https://git-scm.com/downloads).
+- [Download Portugol Stúdio](https://github.com/UNIVALI-LITE/Portugol-Studio).

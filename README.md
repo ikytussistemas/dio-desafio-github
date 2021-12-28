@@ -11,6 +11,9 @@ Repositório criado para o desafio de projeto.
 7. [Manipulando o valor do THIS](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/this.js)
 8. [Coleções Chaveadas](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/colections.js)
 9. [Tratando erros](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/tratandoErros.js)
+10. [MAP](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/map.js)
+11. [FILTER](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/filter.js)
+12. [REDUCE](https://github.com/ikytussistemas/dio-desafio-github/blob/main/atividades/reduce.js)
 
 ## Links úteis 🌐
 - [Documentação do Markdown](https://www.markdownguide.org/).
